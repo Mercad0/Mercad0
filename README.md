@@ -1,10 +1,10 @@
 ![MasterHead]( https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif )
 <h1 align="center">Hi 👋, I'm Abimael Mercado</h1>
-<h3 align="center">| Front-End Developer |</h3>
+<h3 align="center">| Front-End Developer | IOS Developer </h3>
 <img align="right" width="400"  src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687289/retina_1708x683_op-Ten-Front-End-Design-Rules-For-Developers_Luke-Newsletter-d3a7d3e7430ee224cab75104f11342a0.png" />
 
 # 💫 About Me:
-🔭 I’m currently working on Building my Portfolio<br>👯 I’m open to Collaborations<br>🌱 I’m currently learning Swift & getting better with NextJs
+🔭 I’m currently working on Building my Portfolio<br>👯 I’m open to Collaborations<br>
 
 
 ## 🌐 Socials:
