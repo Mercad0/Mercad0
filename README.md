@@ -1,11 +1,10 @@
 ![MasterHead]( https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif )
 <h1 align="center">Hi 👋, I'm Abimael Mercado</h1>
-<h3 align="center">Front-End Developer | IOS Developer </h3>
+<h3 align="center">Front-End Developer </h3>
 <img align="right" width="400"  src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687289/retina_1708x683_op-Ten-Front-End-Design-Rules-For-Developers_Luke-Newsletter-d3a7d3e7430ee224cab75104f11342a0.png" />
 
 # 💫 About Me:
-🔭 I love to learn New things & Explore. <br>
-📝 I’m Currently Studying to become a Swift Certified User. <br>
+🔭 I love to learn about something New <br>
 👯 I’m open to Collaborations, Lets connect!!<br>
 
 
@@ -25,7 +24,7 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
 
 <a href="https://www.credly.com/badges/f757a4f0-b625-445b-94ce-c6ea652f4307/public_url">
-    <img src="https://images.credly.com/size/680x680/images/d9598c1a-2f59-49b9-b7fc-a764bf23b4d5/image.png" alt="Your Badge Title" width="250" height="250">
+    <img src="https://images.credly.com/size/680x680/images/d9598c1a-2f59-49b9-b7fc-a764bf23b4d5/image.png" alt="Your Badge Title" width="100" height="100">
 </a>
 
 
