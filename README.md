@@ -26,7 +26,7 @@
 <a href="https://www.credly.com/badges/f757a4f0-b625-445b-94ce-c6ea652f4307/public_url">
     <img src="https://images.credly.com/size/680x680/images/d9598c1a-2f59-49b9-b7fc-a764bf23b4d5/image.png" alt="Apple Swift Associate" width="150" height="150">
 </a>
-<a href="https://www.credly.com/earner/earned/badge/47466e4e-3c04-4f26-9e6f-fe0edbe2ee50](https://www.credly.com/badges/47466e4e-3c04-4f26-9e6f-fe0edbe2ee50/public_url)">
+<a href="https://www.credly.com/badges/47466e4e-3c04-4f26-9e6f-fe0edbe2ee50/public_url">
     <img src="https://images.credly.com/size/680x680/images/9b0ac7af-f7ac-4938-96a4-2d4805bfe23f/image.png" alt="Apple Swift Certified User" width="150" height="150">
          </a>
 
